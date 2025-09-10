@@ -1,0 +1,18 @@
+Customer Support Guide
+
+How to Reset Password:
+1. Go to login page
+2. Click "Forgot Password"
+3. Enter your email address
+4. Check your email for reset link
+5. Follow the instructions in the email
+
+Common Login Issues:
+- Wrong username or password: Double-check your credentials
+- Account locked: Contact support after 3 failed attempts
+- Browser issues: Clear cache and cookies
+
+Technical Support Contact:
+- Email: support@company.com
+- Phone: 1-800-HELP
+- Hours: 9 AM to 6 PM, Monday to Friday
