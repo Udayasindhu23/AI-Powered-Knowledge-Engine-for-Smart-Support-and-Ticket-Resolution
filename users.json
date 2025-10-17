@@ -1,0 +1,10 @@
+{
+  "Udaya": {
+    "salt": "225abb248e5ffc95aaa9adbade7002b7",
+    "password_hash": "92feb9b5942a46a4c94a180ac5071a58b07e4bb5bfd503ae0f792693e15d769a"
+  },
+  "admin": {
+    "salt": "f7adf3e3e8435e4a9c4e80fa9af8d418",
+    "password_hash": "2cffd6effd9cf525c2ff84632d90c5871378ee22a1a045c4ba77f51164249254"
+  }
+}

@@ -1,0 +1,17 @@
+Content-Type: multipart/alternative; boundary="===============7462375132796669413=="
+MIME-Version: 1.0
+Subject: [Test] Email notifications configured
+From: akhiljaggavarapu@gmail.com
+To: akhiljaggavarapu@gmail.com
+
+--===============7462375132796669413==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+CiAgICAgICAgPGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOyI+CiAg
+ICAgICAgICA8aDM+RW1haWwgbm90aWZpY2F0aW9uIHRlc3Q8L2gzPgogICAgICAgICAgPHA+VGhp
+cyBpcyBhIHRlc3QgZW1haWwgZnJvbSBBSSBDdXN0b21lciBTdXBwb3J0IFN5c3RlbS48L3A+CiAg
+ICAgICAgPC9kaXY+CiAgICAgICAg
+
+--===============7462375132796669413==--
